@@ -1,0 +1,66 @@
+/*
+Theme Name:		Olivie Child
+Template:     Olivie
+*/
+
+/* body.blog .post-content > a img {
+	width: 200px;
+} */
+
+.widget_ace_author br {
+	display: none;
+}
+
+.widget_ace_author .clearfix {
+	display: none;
+}
+
+.heateor_sss_sharing_container {
+	margin-bottom: 30px;	
+}
+
+.header h1, .header h5 {
+	font-family: 'Kaushan Script', cursive;
+	text-transform: capitalize;
+}
+
+.header-meta {
+	border-top: 1px solid #eee;
+	border-bottom: none !important;
+}
+
+select, textarea, input {
+	color: #000;
+}
+
+@media (min-width: 480px) {
+	footer.footer-inner {
+    	display: flex;
+		flex-wrap: wrap;
+	}
+	
+	footer.footer-inner article {
+		flex-basis: 46%;
+	}
+}
+
+@media (min-width: 768px) {
+	footer.footer-inner {
+    	display: flex;
+		flex-wrap: nowrap;
+	}
+	
+	footer.footer-inner article {
+		flex-basis: inherit;
+	}
+}
+
+@media (min-width: 1200px) {
+	footer.footer-inner {
+    	flex-wrap: nowrap;
+	}
+}
+
+.pirate-forms-fields-container .form_field_wrap textarea {
+	box-sizing: border-box;
+}

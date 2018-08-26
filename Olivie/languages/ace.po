@@ -1,0 +1,1069 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Olivie Theme\n"
+"POT-Creation-Date: 2017-08-25 11:57+0800\n"
+"PO-Revision-Date: 2017-08-25 11:57+0800\n"
+"Last-Translator: Andrew <hello@bluchic.com>\n"
+"Language-Team: Bluchic <hello@bluchic.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:11
+msgid "Oopss! 404 Not Found"
+msgstr ""
+
+#: 404.php:13
+msgid ""
+"<p class=\"not-found-text\">The page you are looking for has not been found. "
+"How about search it out?</p>"
+msgstr ""
+
+#: comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#: content-list.php:7 content-none.php:5 content.php:7
+msgid "bookmark"
+msgstr ""
+
+#: content-list.php:10 content.php:10 includes/ace_functions.php:7
+msgid "by"
+msgstr ""
+
+#: content-list.php:29 content.php:35
+msgid "0 comment"
+msgstr ""
+
+#: content-list.php:29 content.php:35
+msgid "1 Comment"
+msgstr ""
+
+#: content-list.php:29 content.php:35
+msgid "% Comments"
+msgstr ""
+
+#: content-none.php:15
+msgid ""
+"You have come to a page that is either not existing or already been removed"
+msgstr ""
+
+#: content-none.php:21 layouts/archives-page.php:35
+msgid "Archives by month:"
+msgstr ""
+
+#: content-none.php:27 layouts/archives-page.php:41
+msgid "Archives by category:"
+msgstr ""
+
+#: footer.php:16
+msgid "Copyright"
+msgstr ""
+
+#: footer.php:16
+msgid "Theme By"
+msgstr ""
+
+#: functions.php:32
+msgid "Loading more posts..."
+msgstr ""
+
+#: functions.php:33
+msgid "All posts loaded."
+msgstr ""
+
+#: includes/ace_options.php:92 includes/ace_options.php:106
+#: includes/modules.php:50
+msgid "Theme Options"
+msgstr ""
+
+#: includes/ace_options.php:118 includes/ace_theme_customize.php:21
+msgid "General settings"
+msgstr ""
+
+#: includes/ace_options.php:119 includes/ace_theme_customize.php:160
+msgid "Colors settings"
+msgstr ""
+
+#: includes/ace_options.php:120 includes/ace_theme_customize.php:1159
+msgid "Extra inputs settings"
+msgstr ""
+
+#: includes/ace_options.php:121 includes/ace_theme_customize.php:1228
+msgid "Slider settings"
+msgstr ""
+
+#: includes/ace_options.php:122
+msgid "Newsletter settings"
+msgstr ""
+
+#: includes/ace_options.php:123 includes/ace_theme_customize.php:1368
+msgid "Entry settings"
+msgstr ""
+
+#: includes/ace_options.php:124 includes/ace_theme_customize.php:1575
+msgid "Social media settings"
+msgstr ""
+
+#: includes/ace_options.php:125 includes/ace_theme_customize.php:2106
+msgid "404 page settings"
+msgstr ""
+
+#: includes/ace_options.php:126 includes/ace_theme_customize.php:2132
+msgid "WooCommerce settings"
+msgstr ""
+
+#: includes/ace_options.php:128 includes/ace_options.php:393
+msgid "Save settings"
+msgstr ""
+
+#: includes/ace_options.php:267
+msgid "Upload"
+msgstr ""
+
+#: includes/ace_options.php:268
+msgid "Upload an image"
+msgstr ""
+
+#: includes/ace_options.php:268
+msgid "and copy-paste the file URL or enter an image URL"
+msgstr ""
+
+#: includes/ace_options.php:268
+msgid "(including http://)"
+msgstr ""
+
+#: includes/ace_options.php:268
+msgid "Preferable size at"
+msgstr ""
+
+#: includes/ace_options.php:268
+msgid "pixel"
+msgstr ""
+
+#: includes/ace_options.php:324
+msgid "Select"
+msgstr ""
+
+#: includes/ace_options.php:325
+msgid "Default color: "
+msgstr ""
+
+#: includes/ace_options.php:397
+msgid "Reset all settings"
+msgstr ""
+
+#: includes/ace_theme_customize.php:35
+msgid "Disable responsive layout"
+msgstr ""
+
+#: includes/ace_theme_customize.php:46
+msgid "Header layout"
+msgstr ""
+
+#: includes/ace_theme_customize.php:62
+msgid "Sticky menu"
+msgstr ""
+
+#: includes/ace_theme_customize.php:75
+msgid "Full width blog page"
+msgstr ""
+
+#: includes/ace_theme_customize.php:104
+msgid "Open new windows"
+msgstr ""
+
+#: includes/ace_theme_customize.php:115
+msgid "Blog layout"
+msgstr ""
+
+#: includes/ace_theme_customize.php:131
+msgid "Featured widget location"
+msgstr ""
+
+#: includes/ace_theme_customize.php:149
+msgid "Footer credit"
+msgstr ""
+
+#: includes/ace_theme_customize.php:176
+msgid "Text color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:189
+msgid "Border color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:205
+msgid "Newsletter background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:218
+msgid "Newsletter text color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:234
+msgid "Menu link color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:247
+msgid "Menu link hover color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:263
+msgid "Slider background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:276
+msgid "Slider arrow background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:289
+msgid "Slider caption text color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:302
+msgid "Slider caption background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:318
+msgid "Page title color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:331
+msgid "Post title link color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:344
+msgid "Post title link hover color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:360
+msgid "Comment button color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:376
+msgid "Comment button text color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:389
+msgid "Comment hover button color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:405
+msgid "Comment hover button text color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:421
+msgid "Sidebar widget title color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:437
+msgid "Footer background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:450
+msgid "Footer widget title color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:463
+msgid "Footer text color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:477
+msgid "Footer credit background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:490
+msgid "Footer credit text color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:506
+msgid "Link color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:519
+msgid "Link hover color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:535
+msgid "H1 color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:548
+msgid "H2 color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:561
+msgid "H3 color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:574
+msgid "H4 color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:587
+msgid "H5 color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:600
+msgid "H6 color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:616
+msgid "Button background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:629
+msgid "Button border color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:642
+msgid "Button text color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:655
+msgid "Button hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:668
+msgid "Button hover border color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:681
+msgid "Button hover text color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:697
+msgid "Accordion background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:710
+msgid "Accordion text color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:723
+msgid "Accordion hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:736
+msgid "Accordion hover text color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:752
+msgid "Twitter background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:765
+msgid "Twitter hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:778
+msgid "Facebook background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:791
+msgid "Facebook hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:804
+msgid "Email background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:817
+msgid "Email hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:830
+msgid "RSS Feed background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:843
+msgid "RSS Feed hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:856
+msgid "Google Plus background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:869
+msgid "Google Plus hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:882
+msgid "Flickr background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:895
+msgid "Flickr hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:908
+msgid "LinkedIn background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:921
+msgid "LinkedIn hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:934
+msgid "YouTube background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:947
+msgid "YouTube hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:960
+msgid "Vimeo background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:973
+msgid "Vimeo hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:986
+msgid "Instagram background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:999
+msgid "Instagram hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1012
+msgid "BLogLovin background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1025
+msgid "BLogLovin hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1038
+msgid "Pinterest background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1051
+msgid "Pinterest hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1064
+msgid "Tumblr background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1077
+msgid "Tumblr hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1088
+msgid "Newsletter area settings"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1102
+msgid "Enable newsletter form"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1115
+msgid "Newsletter location"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1133
+msgid "Show newsletter on homepage only"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1147
+msgid "Newsletter"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1173
+msgid "Header script(s)"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1188
+msgid "Footer script(s)"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1201
+msgid "Header banner"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1216
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1242
+msgid "Enable slider"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1256
+msgid "Show slider on homepage only"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1270
+msgid "Show Title"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1285
+msgid "Pause"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1307
+msgid "Speed"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1329
+msgid "Auto slider"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1343
+msgid "Pager navigation"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1357
+msgid "Slider navigation"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1382
+msgid "Enable Breadcrumb navigation"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1394
+msgid "Post banner"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1409
+msgid "Hide post date"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1424
+msgid "Hide post category"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1439
+msgid "Hide post comment"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1454
+msgid "Show post tags"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1469
+msgid "Show blog author"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1483
+msgid "Show blog author biography"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1494
+msgid "Author signature"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1508
+msgid "Use excerpt summary"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1522
+msgid "Enable related post"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1536
+msgid "Enable feature thumbnail"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1550
+msgid "Width"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1564
+msgid "Height"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1589
+msgid "Enable social media icons"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1601
+msgid "Background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1613
+msgid "Twitter profile URL"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1626
+msgid "Twitter icon background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1639
+msgid "Twitter icon hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1651
+msgid "Facebook profile URL"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1664
+msgid "Facebook icon background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1677
+msgid "Facebook icon hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1689
+msgid "Pinterest profile URL"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1702
+msgid "Pinterest icon background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1715
+msgid "Pinterest icon hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1727
+msgid "Instagram profile URL"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1740
+msgid "Instagram icon background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1753
+msgid "Instagram icon hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1765
+msgid "Google Plus profile URL"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1778
+msgid "Google Plus icon background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1791
+msgid "Google Plus icon hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1803
+msgid "Flickr profile URL"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1816
+msgid "Flickr icon background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1829
+msgid "Flickr icon hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1841
+msgid "Linkedin profile URL"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1854
+msgid "Linkedin icon background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1867
+msgid "Linkedin icon hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1879
+msgid "YouTube profile URL"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1892
+msgid "YouTube icon background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1905
+msgid "YouTube icon hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1917
+msgid "Vimeo profile URL"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1930
+msgid "Vimeo icon background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1943
+msgid "Vimeo icon hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1955
+msgid "BlogLovin profile URL"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1968
+msgid "BlogLovin icon background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1981
+msgid "BlogLovin icon hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:1993
+msgid "Tumblr profile URL"
+msgstr ""
+
+#: includes/ace_theme_customize.php:2006
+msgid "Tumblr icon background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:2019
+msgid "Tumblr icon hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:2031
+msgid "RSS profile URL"
+msgstr ""
+
+#: includes/ace_theme_customize.php:2044
+msgid "RSS icon background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:2057
+msgid "RSS icon hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:2069
+msgid "Email profile URL"
+msgstr ""
+
+#: includes/ace_theme_customize.php:2082
+msgid "Email icon background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:2095
+msgid "Email icon hover background color"
+msgstr ""
+
+#: includes/ace_theme_customize.php:2120
+msgid "404 Page Content"
+msgstr ""
+
+#: includes/ace_theme_customize.php:2144
+msgid "Show cart icon on menu"
+msgstr ""
+
+#: includes/ace_theme_customize.php:2155
+msgid "Show floating cart icon on top right"
+msgstr ""
+
+#: includes/ace_theme_customize.php:2166
+msgid "Display shop page breadcrumb"
+msgstr ""
+
+#: includes/ace_theme_customize.php:2177
+msgid "Remove sidebar on product page"
+msgstr ""
+
+#: includes/ace_theme_customize.php:2189
+msgid "WooCommerce product per row"
+msgstr ""
+
+#: includes/ace_theme_customize.php:2206
+msgid "WooCommerce product per page"
+msgstr ""
+
+#: includes/custom_post.php:8 includes/custom_post.php:9
+msgid "Slider"
+msgstr ""
+
+#: includes/custom_post.php:10
+msgid "Slider content"
+msgstr ""
+
+#: includes/custom_post.php:23
+msgid "Filter slider list"
+msgstr ""
+
+#: includes/custom_post.php:24
+msgid "Slider list navigation"
+msgstr ""
+
+#: includes/custom_post.php:25
+msgid "Slider list"
+msgstr ""
+
+#: includes/custom_widgets.php:8
+msgid "Show a short biography of author"
+msgstr ""
+
+#: includes/custom_widgets.php:10
+msgid "Ace Blog Author"
+msgstr ""
+
+#: includes/custom_widgets.php:41 includes/custom_widgets.php:113
+#: includes/custom_widgets.php:215 includes/custom_widgets.php:328
+msgid "Title"
+msgstr ""
+
+#: includes/custom_widgets.php:45 includes/custom_widgets.php:332
+msgid "Picture"
+msgstr ""
+
+#: includes/custom_widgets.php:46
+msgid "Please upload image via Media -> Add New and get the image file URL"
+msgstr ""
+
+#: includes/custom_widgets.php:50
+msgid "Short Description"
+msgstr ""
+
+#: includes/custom_widgets.php:54
+msgid "Read More Text (optional)"
+msgstr ""
+
+#: includes/custom_widgets.php:58
+msgid "Read More URL (optional)"
+msgstr ""
+
+#: includes/custom_widgets.php:77
+msgid "This is a contact and location widget"
+msgstr ""
+
+#: includes/custom_widgets.php:79
+msgid "Ace Contact Location"
+msgstr ""
+
+#: includes/custom_widgets.php:117
+msgid "Address"
+msgstr ""
+
+#: includes/custom_widgets.php:121
+msgid "Email address"
+msgstr ""
+
+#: includes/custom_widgets.php:125
+msgid "Phone number"
+msgstr ""
+
+#: includes/custom_widgets.php:129
+msgid "Fax number"
+msgstr ""
+
+#: includes/custom_widgets.php:148
+msgid "Show social network like Twitter, Facebook, RSS, etc."
+msgstr ""
+
+#: includes/custom_widgets.php:150
+msgid "Ace Social Networks"
+msgstr ""
+
+#: includes/custom_widgets.php:222
+msgid "Open links in new windows"
+msgstr ""
+
+#: includes/custom_widgets.php:224
+msgid "Insert full URL include http:// except for email"
+msgstr ""
+
+#: includes/custom_widgets.php:226
+msgid "Email"
+msgstr ""
+
+#: includes/custom_widgets.php:230
+msgid "Custom RSS feed"
+msgstr ""
+
+#: includes/custom_widgets.php:234
+msgid "Facebook"
+msgstr ""
+
+#: includes/custom_widgets.php:238
+msgid "Twitter"
+msgstr ""
+
+#: includes/custom_widgets.php:242
+msgid "Google Plus"
+msgstr ""
+
+#: includes/custom_widgets.php:246
+msgid "Flickr"
+msgstr ""
+
+#: includes/custom_widgets.php:250
+msgid "Linkedin"
+msgstr ""
+
+#: includes/custom_widgets.php:254
+msgid "YouTube"
+msgstr ""
+
+#: includes/custom_widgets.php:258
+msgid "Vimeo"
+msgstr ""
+
+#: includes/custom_widgets.php:262
+msgid "Instagram"
+msgstr ""
+
+#: includes/custom_widgets.php:266
+msgid "Pinterest"
+msgstr ""
+
+#: includes/custom_widgets.php:270
+msgid "Tumblr"
+msgstr ""
+
+#: includes/custom_widgets.php:274
+msgid "Bloglovin"
+msgstr ""
+
+#: includes/custom_widgets.php:293
+msgid "Featured widget"
+msgstr ""
+
+#: includes/custom_widgets.php:295
+msgid "Ace Featured"
+msgstr ""
+
+#: includes/custom_widgets.php:336
+msgid "Image/Title URL (optional)"
+msgstr ""
+
+#: includes/modules.php:138
+msgid "Top Menu"
+msgstr ""
+
+#: includes/modules.php:176
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: includes/modules.php:178
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: includes/modules.php:180
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: includes/modules.php:252
+msgid "Continue Reading..."
+msgstr ""
+
+#: includes/modules.php:356
+msgid "ago"
+msgstr ""
+
+#: includes/modules.php:379
+#, php-format
+msgid "<h6>%s</h6>"
+msgstr ""
+
+#: includes/modules.php:380
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/modules.php:380
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/modules.php:382
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: includes/modules.php:467
+msgid "Home"
+msgstr ""
+
+#: includes/modules.php:484
+msgid "Archive by category &#39;"
+msgstr ""
+
+#: includes/modules.php:560
+msgid "Search results for &#39;"
+msgstr ""
+
+#: includes/modules.php:564
+msgid "Posts tagged &#39;"
+msgstr ""
+
+#: includes/modules.php:572
+msgid "Articles posted by "
+msgstr ""
+
+#: includes/modules.php:582
+msgid "Page"
+msgstr ""
+
+#: includes/modules.php:596
+msgid "Pages:"
+msgstr ""
+
+#: includes/modules.php:601
+msgid "Next page"
+msgstr ""
+
+#: includes/modules.php:602
+msgid "Previous page"
+msgstr ""
+
+#: includes/modules.php:615 layouts/blog-page.php:32
+msgid "Previous"
+msgstr ""
+
+#: includes/modules.php:616 layouts/blog-page.php:33
+msgid "Next"
+msgstr ""
+
+#: includes/plugins/ace_woocommerce.php:208
+#: includes/plugins/ace_woocommerce.php:217
+msgid "View your shopping cart"
+msgstr ""
+
+#: includes/widgets.php:7
+msgid "Right Widget"
+msgstr ""
+
+#: includes/widgets.php:24
+msgid "Footer Widget"
+msgstr ""
+
+#: includes/widgets.php:41
+msgid "Featured Widget"
+msgstr ""
+
+#: includes/widgets.php:58
+msgid "Instagram Widget"
+msgstr ""
+
+#: layouts/related.php:1
+msgid "You may also like"
+msgstr ""
+
+#: layouts/sitemap-page.php:27
+msgid "Pages"
+msgstr ""
+
+#: layouts/sitemap-page.php:33
+msgid "Categories"
+msgstr ""
+
+#: layouts/sitemap-page.php:48
+msgid "Comment"
+msgstr ""
+
+#: search.php:7
+msgid "Searching for"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search"
+msgstr ""

@@ -1,0 +1,18 @@
+* {text-align: right;}
+.header-title {text-align: center;}
+.avatar {float: right; margin-right: 0; margin-left: 20px;}
+.nav li {float: right;}
+/********** @media **********/
+@media all and (max-width: 480px) {
+
+}
+/********** @media **********/
+@media all and (min-width: 481px) and (max-width: 1199px) {
+	.section {float: right;}
+	.aside {float: left;}
+}
+/********** @media **********/
+@media all and (min-width: 1200px) {
+	.section {float: right;}
+	.aside {float: left;}
+}
